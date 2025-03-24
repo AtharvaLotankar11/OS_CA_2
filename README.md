@@ -13,9 +13,6 @@ The need for edge computing emerges from two key forces: the limitations of clou
 At its core, edge computing is about performing computation as close as possible to the data source. It leverages devices and resources—like smartphones, home gateways, or small data centers—positioned between the data origin and the cloud. Unlike traditional cloud models, where data travels long distances for processing, edge computing handles data locally, offloading tasks from the cloud and reducing strain on networks. It’s a complementary approach to fog computing, with a sharper focus on the "things" side of the equation, empowering devices to act autonomously while still connecting to broader systems.
 
 ## Practical Applications
-
-Edge computing shines in scenarios where speed, scale, and privacy are paramount. Here are some compelling use cases:
-
 ### Cloud Offloading
 By moving tasks like shopping cart updates or navigation searches to edge nodes, latency drops significantly, improving user experiences in interactive services.
 ### Video Analytics
